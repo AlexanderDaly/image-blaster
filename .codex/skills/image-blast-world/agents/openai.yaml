@@ -1,0 +1,7 @@
+interface:
+  display_name: "Image Blast World"
+  short_description: "Generate the 3D static environment of a world from a source or p"
+  default_prompt: "Use $image-blast-world to generate the 3d static environment of a world from a source or plate image."
+
+policy:
+  allow_implicit_invocation: true

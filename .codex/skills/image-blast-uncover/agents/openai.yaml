@@ -1,0 +1,7 @@
+interface:
+  display_name: "Image Blast Uncover"
+  short_description: "Main image analysis skill, object generation, plate decisionmaki"
+  default_prompt: "Use $image-blast-uncover to main image analysis skill, object generation, plate decisionmaking, and initial scene description."
+
+policy:
+  allow_implicit_invocation: true

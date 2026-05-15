@@ -1,0 +1,7 @@
+interface:
+  display_name: "Image Blast Plate"
+  short_description: "Generate one clean plate/source cleanup image for an IMAGE-BLAST"
+  default_prompt: "Use $image-blast-plate to generate one clean plate/source cleanup image for an image-blaster world."
+
+policy:
+  allow_implicit_invocation: true
