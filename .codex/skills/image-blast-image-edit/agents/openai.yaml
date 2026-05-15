@@ -1,0 +1,7 @@
+interface:
+  display_name: "Image Blast Image Edit"
+  short_description: "Generate one image edit from explicit input images and a prompt"
+  default_prompt: "Use $image-blast-image-edit to generate one image edit from explicit input images and a prompt."
+
+policy:
+  allow_implicit_invocation: true

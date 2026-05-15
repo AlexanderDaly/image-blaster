@@ -1,0 +1,7 @@
+interface:
+  display_name: "Image Blast 3D"
+  short_description: "Generate one specified atomic 3D object"
+  default_prompt: "Use $image-blast-3d to generate one specified atomic 3d object."
+
+policy:
+  allow_implicit_invocation: true

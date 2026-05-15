@@ -1,0 +1,7 @@
+interface:
+  display_name: "Image Blast Wildcard"
+  short_description: "Discover and run any FAL API model or operation the user request"
+  default_prompt: "Use $image-blast-wildcard to discover and run any fal api model or operation the user requests."
+
+policy:
+  allow_implicit_invocation: true

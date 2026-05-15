@@ -1,0 +1,7 @@
+interface:
+  display_name: "Image Blast SFX"
+  short_description: "Generate and post-process a clean sound effect, object impact, o"
+  default_prompt: "Use $image-blast-sfx to generate and post-process a clean sound effect, object impact, or ambient loop."
+
+policy:
+  allow_implicit_invocation: true
